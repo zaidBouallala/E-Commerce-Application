@@ -30,7 +30,7 @@ A modern, responsive e-commerce frontend application built with React, Vite, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ecomrce-application.git
+   git clone https://github.com/zaidBouallala/ecomrce-application.git
    cd ecomrce-application
    ```
 
